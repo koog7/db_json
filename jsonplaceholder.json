@@ -1,0 +1,65 @@
+[
+  {
+      "id": 1,
+      "year": 2013,
+      "it_companies": ["Company A", "Company B", "Company C"],
+      "jobs_created": 1500,
+      "taxes": 7000000
+  },
+  {
+      "id": 2,
+      "year": 2014,
+      "it_companies": ["Company X", "Company Y", "Company Z"],
+      "jobs_created": 1800,
+      "taxes": 8500000
+  },
+  {
+      "id": 3,
+      "year": 2015,
+      "it_companies": ["Company M", "Company N", "Company O"],
+      "jobs_created": 2100,
+      "taxes": 9200000
+  },
+  {
+      "id": 4,
+      "year": 2016,
+      "it_companies": ["Company D", "Company E", "Company F"],
+      "jobs_created": 2300,
+      "taxes": 9800000
+  },
+  {
+      "id": 5,
+      "year": 2017,
+      "it_companies": ["Company P", "Company Q", "Company R"],
+      "jobs_created": 2700,
+      "taxes": 10500000
+  },
+  {
+      "id": 6,
+      "year": 2018,
+      "it_companies": ["Company G", "Company H", "Company I"],
+      "jobs_created": 2500,
+      "taxes": 10200000
+  },
+  {
+      "id": 7,
+      "year": 2019,
+      "it_companies": ["Company S", "Company T", "Company U"],
+      "jobs_created": 3000,
+      "taxes": 11500000
+  },
+  {
+      "id": 8,
+      "year": 2020,
+      "it_companies": ["Company J", "Company K", "Company L"],
+      "jobs_created": 2800,
+      "taxes": 11000000
+  },
+  {
+      "id": 9,
+      "year": 2021,
+      "it_companies": ["Company V", "Company W", "Company X"],
+      "jobs_created": 3200,
+      "taxes": 12500000
+  }
+]
