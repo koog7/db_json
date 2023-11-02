@@ -4,42 +4,42 @@
       "year": 2013,
       "it_companies": ["Company A", "Company B", "Company C"],
       "jobs_created": 1500,
-      "taxes": 500000
+      "taxes": 200000
   },
   {
       "id": 2,
       "year": 2014,
       "it_companies": ["Company X", "Company Y", "Company Z"],
       "jobs_created": 1800,
-      "taxes": 1000000
+      "taxes": 1200000
   },
   {
       "id": 3,
       "year": 2015,
       "it_companies": ["Company M", "Company N", "Company O"],
       "jobs_created": 2100,
-      "taxes": 2500000
+      "taxes": 2800000
   },
   {
       "id": 4,
       "year": 2016,
       "it_companies": ["Company D", "Company E", "Company F"],
       "jobs_created": 2300,
-      "taxes": 4000000
+      "taxes": 6000000
   },
   {
       "id": 5,
       "year": 2017,
       "it_companies": ["Company P", "Company Q", "Company R"],
       "jobs_created": 2700,
-      "taxes": 7500000
+      "taxes": 8000000
   },
   {
       "id": 6,
       "year": 2018,
       "it_companies": ["Company G", "Company H", "Company I"],
       "jobs_created": 2500,
-      "taxes": 9000000
+      "taxes": 11000000
   },
   {
       "id": 7,
@@ -74,6 +74,6 @@
   "year": 2023,
   "it_companies": ["Company A", "Company B", "Company C"],
   "jobs_created": 4100,
-  "taxes": 75000000
+  "taxes": 100000000
   }
 ]
