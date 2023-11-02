@@ -4,7 +4,7 @@
       "year": 2013,
       "it_companies": ["Company A", "Company B", "Company C"],
       "jobs_created": 1500,
-      "taxes": 100000
+      "taxes": 500000
   },
   {
       "id": 2,
@@ -25,7 +25,7 @@
       "year": 2016,
       "it_companies": ["Company D", "Company E", "Company F"],
       "jobs_created": 2300,
-      "taxes": 5000000
+      "taxes": 4000000
   },
   {
       "id": 5,
@@ -39,7 +39,7 @@
       "year": 2018,
       "it_companies": ["Company G", "Company H", "Company I"],
       "jobs_created": 2500,
-      "taxes": 10000000
+      "taxes": 9000000
   },
   {
       "id": 7,
